@@ -1,5 +1,0 @@
-# .github
-
-overview
-
-arch image
